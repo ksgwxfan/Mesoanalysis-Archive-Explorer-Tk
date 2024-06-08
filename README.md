@@ -63,7 +63,7 @@ For convenience/reference, the current time (in UTC/Zulu) is displayed on the ma
 
 ### Changing Products
 
-![Change the Product](https://ksgwxfan.github.io/mae/project_resources/readme_images/v01_change_products.png)
+![Change the Product](https://ksgwxfan.github.io/mae/project_resources/v01_change_products.png)
 
 The vast array of archived SPC Mesoanalysis products are categorized into different categories, generally reflecting their placement on the [real-time SPC Mesoanalysis page](https://www.spc.noaa.gov/exper/mesoanalysis/new/viewsector.php?sector=19).
 
