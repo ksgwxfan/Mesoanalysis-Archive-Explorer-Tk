@@ -4,7 +4,7 @@ The original version of this app (`v1.0`) was released in July 2021.
 
 The purpose of this Python tkinter zipapp is to expedite viewing, retrieving, and optionally storing imagery found in the [Storm Prediction Center's](https://spc.noaa.gov) [Mesoscale Analysis Archive](https://www.spc.noaa.gov/exper/ma_archive/).
 
-It is an implementation of [my online version of the Mesoanalysis Archive Explorer](https://ksgwxfan.github.io/mae/Mesoanalysis_Archive_Explorer.html).
+It is an implementation of [my online version of the Mesoanalysis Archive Explorer](https://ksgwxfan.github.io/mae/index.html).
 
 ### Contents
 * [Changes From v1.0](#changes-from-v1)
