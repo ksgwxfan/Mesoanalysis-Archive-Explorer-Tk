@@ -101,7 +101,7 @@ Below the archive mode setting is `Make Current Settings Default`. It takes the 
 
 ### Other Info
 
-- Mesoanalysis Archive Explorer, &copy; 2021-2024, Kyle S. Gentry
+- Mesoanalysis Archive Explorer Tk, &copy; 2021-2024, Kyle S. Gentry
 - License: MIT
 
 [&#8679; back to Contents](#contents)
