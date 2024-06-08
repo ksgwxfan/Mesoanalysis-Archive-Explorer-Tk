@@ -1,10 +1,11 @@
-# Mesoanalysis Archive Explorer (MAE Tk) v1.0
+# Mesoanalysis Archive Explorer (MAE Tk) v1.01
 
 The purpose of this Python tkinter zipapp is to expedite viewing, retrieving, and optionally storing imagery found in the [Storm Prediction Center's](https://spc.noaa.gov) [Mesoscale Analysis Archive](https://www.spc.noaa.gov/exper/ma_archive/).
 
 It is an implementation of [my online version of the Mesoanalysis Archive Explorer](https://ksgwxfan.github.io/mae/Mesoanalysis_Archive_Explorer.html).
 
 ### Contents
+* [Changes From v1.0](#changes-from-v1)
 * [Features](#feature-overview)
 * [Requirements](#requirements)
 * [Installation](#installation)
@@ -12,6 +13,10 @@ It is an implementation of [my online version of the Mesoanalysis Archive Explor
 * [Changing Products](#changing-products)
 * [Changing Options](#changing-options)
 * [Credits/Links](#credits)
+
+### Changes from v1
+- fixed message in the change defaults dialog where it always reported archive mode as being turned off.
+- fixed some syntax where I used the statement `is` instead of `==`. This will clear the formerly displayed warning in the console.
 
 ### Feature Overview
 
@@ -40,7 +45,7 @@ It is an implementation of [my online version of the Mesoanalysis Archive Explor
 
 ### Changing Dates
 
-![Change the date](change_date.gif)
+![Change the date](readme_images/v01_change_date.gif)
 
 This program allows several different options to change the date.
 - Using the date entry box, you can change the date with a properly formatted string (`YYYYMMDDHH`).
@@ -56,7 +61,7 @@ For convenience/reference, the current time (in UTC/Zulu) is displayed on the ma
 
 ### Changing Products
 
-![Change the Product](change_products.png)
+![Change the Product](readme_images/v01_change_products.png)
 
 The vast array of archived SPC Mesoanalysis products are categorized into different categories, generally reflecting their placement on the [real-time SPC Mesoanalysis page](https://www.spc.noaa.gov/exper/mesoanalysis/new/viewsector.php?sector=19).
 
