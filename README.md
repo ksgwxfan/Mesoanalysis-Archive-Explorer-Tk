@@ -68,7 +68,7 @@ This program allows several different options to change the date.
 - Using the date entry box, you can change the date with a properly formatted string (`YYYYMMDDHH`).
   - For example, to change the date to May 31, 2013 at 23Z, the proper string would be `2013053123`.
   - Other Accepted Formats:
-    -   Format   |   Example    | Result
+        Format   |   Example    | Result
 	    :---:    |    :---:     |  :---:
 	  Year       |     2023     |  Jumps to January 1, 2023 at 00Z
 	  Month      |    201805    |  Jumps to May 1, 2018 at 00Z
