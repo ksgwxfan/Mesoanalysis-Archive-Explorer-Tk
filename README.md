@@ -129,6 +129,7 @@ In the `Options` menu is `Make Current Settings Default`. It takes the current s
   - Improved text on high-res displays on Windows: [https://stackoverflow.com/questions/41315873/attempting-to-resolve-blurred-tkinter-text-scaling-on-windows-10-high-dpi-disp](https://stackoverflow.com/questions/41315873/attempting-to-resolve-blurred-tkinter-text-scaling-on-windows-10-high-dpi-disp)
 - Product Titles/Descriptions were also retrieved via SPC's site too.
 - Disclaimer: No products were archived from the end of November 2022 through most of December 2022.
+- To inspect the code, simply unzip the `.pyz` file. Any program that supports zip files should work.
 
 [&#8679; back to Contents](#contents)
 
