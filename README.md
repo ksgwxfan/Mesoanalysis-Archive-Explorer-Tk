@@ -68,11 +68,9 @@ This program allows several different options to change the date.
 - Using the date entry box, you can change the date with a properly formatted string (`YYYYMMDDHH`).
   - For example, to change the date to May 31, 2013 at 23Z, the proper string would be `2013053123`.
   - Other Accepted Formats:
-        Format   |   Example    | Result
-	    :---:    |    :---:     |  :---:
-	  Year       |     2023     |  Jumps to January 1, 2023 at 00Z
-	  Month      |    201805    |  Jumps to May 1, 2018 at 00Z
-	  Day        |   20110427   |  Jumps to April 27, 2011 at 00Z
+    - Year - 2024 - takes you to January 1, 2024 at 0Z
+	- Year & Month - 202406 - takes you to June 1, 2024 at 0Z
+	- Year, Month, & Day - 20240614 - takes you to June 14, 2024 at 0Z
 - Using the provided convenience buttons, the date can be changed by going back or forward by 1 year, 1 month, 1 week, 1 day, or 1 hour.
   - The `Present Time` button will take you to a near-real time date, usually offset by a few hours. This is due to that the imagery really represents forecast-hour 0 of the RAP model. As models take time to compile/run, generally, the most recent available imagery is from the previous 1 or 2 hours. Also, the archive may not be updated as fast as the 'real-time' data.
 
